@@ -57,3 +57,4 @@ Currently, I'm focusing on learning **Python** and building my programming skill
 ### 🚀 "Keep learning. Keep coding. Keep improving."
 
 Thanks for visiting my profile! ❤️
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blue)
